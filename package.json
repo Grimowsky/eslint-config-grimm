@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-grimm",
+  "version": "1.0.0",
+  "description": "shareable eslint config",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grimowsky/eslint-config-grimm.git"
+  },
+  "author": "Grimm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grimowsky/eslint-config-grimm/issues"
+  },
+  "homepage": "https://github.com/Grimowsky/eslint-config-grimm#readme"
+}
